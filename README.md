@@ -1,3 +1,3 @@
 # CommonArrayAlgorithms
 
-Includes methods for several common array algorithms, such as merge sort.
+Includes methods for several common array algorithms, such as finding and merging.
